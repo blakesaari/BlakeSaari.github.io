@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Blake Saari",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "bsaari@hawaii.edu",
+    "phone": "805-444-1774",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.B.A. in Finance, Management Information Systems, and International Business in the Shidler College of Business at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,44 +17,47 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "blakesaari",
+        "url": "http://github.com/blakesaari"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "blakesaari",
+        "url": "http://linkedin.com/in/blakesaari"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "blake_saari",
+        "url": "http://twitter.com/blake_saari"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "blake.saari",
+        "url": "http://instagram.com/blake.saari"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Decentralized Finance",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Web3",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Governance",
       "keywords": [
       ]
     }
+    {
+      "name": "Financial Markets",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
@@ -84,9 +87,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Finance, Management Information Systems, International Business (expected Spring, 2023)",
+      "studyType": "B.B.A.",
+      "startDate": "2019-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
