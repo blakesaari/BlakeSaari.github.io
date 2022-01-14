@@ -116,15 +116,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Associated Students of the University of Hawaii",
+      "website": "https://asuhmanoa.wixsite.com/asuh",
+      "position": "Treasurer",
+      "startDate": "2019-12-28",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Allocating ASUH's stock portfolio and student fees towards student activities",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Facilitated the approval and payment of awards for service to members of the senate",
+        "Oversaw an investment portfolio of over $11.3 million managed by Graystone Consulting"
       ]
     },
     {
