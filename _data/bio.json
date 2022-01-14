@@ -56,15 +56,12 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Financial Modeling",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Discounted Cash Flow",
+        "Leveraged Buyout",
+        "SQL"
       ]
     },
     {
