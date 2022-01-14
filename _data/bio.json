@@ -65,14 +65,14 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Operations",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Community Development",
+        "Accounting",
+        "Delegation",
+        "Cost Reduction",
+        "Risk Management"
       ]
     }
   ],
