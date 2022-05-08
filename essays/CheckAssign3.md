@@ -31,7 +31,6 @@ Sessions will be utilized to manage my shopping cart as the method to store quan
 In order to assure that users that are not logged in are unable to access certain parts of the application, I will utilize cookies to store that a user is logged in and sessions to maintain product data. When a user gets to the site, the cookie stored on their browser will either match them with a session or the cookie will not match and the user will have to add items to cart and login or register. 
 
 <br>
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$_SESSION['loggedIn'] = true;
 <br>
 <br>
