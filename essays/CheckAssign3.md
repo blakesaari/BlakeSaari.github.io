@@ -21,21 +21,9 @@ My sites shopping cart will be a seperate page that a user will be able to click
 
 ## Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
 
-Sessions will be utilized to manage my shopping cart as the method to store quantity data so that if a user logs-in they can return to their cart. The data stored within sessions will be through arrays in JSON.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example of data:
+Sessions will be utilized to manage my shopping cart as the method to store quantity data so that if a user logs-in they can return to their cart. The data stored within sessions will be through arrays in JSON. Unlike previous assignments, this one will require more than one variety and as a result will be formatted as such:
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Rib-eye":[
-<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "name":"16oz Rib-eye"
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "price":"75
-<br>
+{ribeye: [0,0,0,1,0,0], ny-strip: [0,1,0,0,0,0], porterhouse: [0,2,0,0,0,1]}
 
 ## How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
 
