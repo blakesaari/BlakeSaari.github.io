@@ -24,8 +24,18 @@ My sites shopping cart will be a seperate page that a user will be able to click
 Sessions will be utilized to manage my shopping cart as the method to store quantity data so that if a user logs-in they can return to their cart. The data stored within sessions will be through arrays in JSON.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example of data:
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Rib-eye":[
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "name":"16oz Rib-eye"
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "price":"75
+<br>
 
 ## How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
 
